@@ -7,6 +7,9 @@
 
 ![Willy GitHub stats](https://github-readme-stats.vercel.app/api?username=Willy-biti&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-biti)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tecnologias
 
 <div style=display: inline_block><br/>
