@@ -38,9 +38,14 @@
     
 </div><br/>
 
- ![Snake animation](https://github.com/ellen2121/Willy-biti/blob/output/github-contribution-grid-snake.svg)
-
-
+  </div>
+  
+ 
+  ![Snake animation](https://github.com/ellen2121/Willy-biti/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
+  
 
 <p align="center">
  Visitas <br></p>
