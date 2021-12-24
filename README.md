@@ -4,6 +4,12 @@
 
 </br>
 
+<div>
+  <a href="https://github.comWilly-biti">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Willy-biti&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-biti&layout=compact&langs_count=7&theme=react" />
+</div>
+
 ### Redes Socias
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -32,8 +38,8 @@
     
 </div><br/>
 
+ ![Snake animation](https://github.com/ellen2121/Willy-biti/blob/output/github-contribution-grid-snake.svg)
 
-![Willy GitHub stats](https://github-readme-stats.vercel.app/api?username=Willy-biti&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-biti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
