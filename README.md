@@ -36,6 +36,8 @@
     
     
 </div><br/>
+  
+   ![Snake animation](https://github.com/Willy-biti/Willy-biti/blob/output/github-contribution-grid-snake.svg)
 
   </div>
   
