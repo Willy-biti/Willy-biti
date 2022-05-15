@@ -1,5 +1,5 @@
 ### Olá! Eu sou Willy Bangakosa Biti 🖐️
-### Estudante de Administração na UFSC
+### Estudante de Análise e desenvolvimento de sistemas
 ### Apaixonado pela TI
 
 </br>
