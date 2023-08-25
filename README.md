@@ -1,6 +1,5 @@
 ### Olá! Eu sou Willy Bangakosa Biti 🖐️
-### Estudante de Análise e desenvolvimento de sistemas
-### Apaixonado pela TI
+### Análise e desenvolvimento de sistemas
 
 </br>
 
